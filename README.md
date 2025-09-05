@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Moxiedev1
+# 👋 Hi there! I'm MOXIE (OJO OLUWADAMILARE SAMUEL)
 
 🎓 I'm a Computer Engineering student at Redeemer's University, Ede, Nigeria.
 
@@ -22,6 +22,6 @@
 ⚡ Fun fact: I enjoy understanding *how things work* at both the hardware and software levels.
 
 <!---
-Moxiedev1/Moxiedev1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moxie-15/Moxie-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
